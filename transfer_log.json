@@ -1,0 +1,58 @@
+[
+  {
+    "user_id": 7115201719,
+    "phase": "fetch_gifts",
+    "gift_id": "-",
+    "error": "Telegram server says - Bad Request: BUSINESS_CONNECTION_INVALID",
+    "timestamp": "2025-06-18T02:07:00.871485"
+  },
+  {
+    "user_id": 7115201719,
+    "phase": "transfer_stars",
+    "gift_id": "-",
+    "error": "Telegram server says - Bad Request: BUSINESS_CONNECTION_INVALID",
+    "timestamp": "2025-06-18T02:07:00.920844"
+  },
+  {
+    "user_id": 7115201719,
+    "phase": "transfer_old_regular",
+    "gift_id": "918069",
+    "error": "Telegram server says - Bad Request: PEER_ID_INVALID",
+    "timestamp": "2025-06-18T02:07:23.441013"
+  },
+  {
+    "user_id": 7115201719,
+    "phase": "transfer_old_regular",
+    "gift_id": "683350",
+    "error": "Telegram server says - Bad Request: PEER_ID_INVALID",
+    "timestamp": "2025-06-18T02:07:24.556241"
+  },
+  {
+    "user_id": 7115201719,
+    "phase": "fetch_gifts",
+    "gift_id": "-",
+    "error": "Telegram server says - Bad Request: BUSINESS_CONNECTION_INVALID",
+    "timestamp": "2025-06-18T02:08:25.186232"
+  },
+  {
+    "user_id": 7115201719,
+    "phase": "transfer_stars",
+    "gift_id": "-",
+    "error": "Telegram server says - Bad Request: BUSINESS_CONNECTION_INVALID",
+    "timestamp": "2025-06-18T02:08:25.235620"
+  },
+  {
+    "user_id": 8182641796,
+    "phase": "fetch_gifts",
+    "gift_id": "-",
+    "error": "Telegram server says - Bad Request: BUSINESS_CONNECTION_INVALID",
+    "timestamp": "2025-06-18T02:09:39.238828"
+  },
+  {
+    "user_id": 8182641796,
+    "phase": "transfer_stars",
+    "gift_id": "-",
+    "error": "Telegram server says - Bad Request: BUSINESS_CONNECTION_INVALID",
+    "timestamp": "2025-06-18T02:09:39.288414"
+  }
+]
