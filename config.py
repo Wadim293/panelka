@@ -1,5 +1,5 @@
 BOT_TOKEN = "7964685597:AAH0BD2oc_qE9syxJK78FPC70ar0Ym2bq2c"
-WEBHOOK_HOST = "https://4b92-109-235-9-156.ngrok-free.app"
+WEBHOOK_HOST = "https://panelka.fly.dev"
 WEBHOOK_PATH = "/webhook"
 WEBHOOK_PORT = 8000
 
